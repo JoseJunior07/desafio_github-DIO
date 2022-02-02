@@ -1,4 +1,5 @@
-# desafio_github-DIO
+# Desafio GitHub Digital Innovation One.
+
 Primeiro repositório criado para o desafio de projeto sobre Git/GitHub
 
 ## Linkedin:
